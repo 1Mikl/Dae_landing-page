@@ -128,7 +128,7 @@ ul li {
 
 .img-fon {
     background: url(../img/fon-nav.jpg) no-repeat center / cover;
-    max-height: 435px;
+    height: 435px;
     padding: 55px 0;
     display: flex;
     justify-content: center;
@@ -257,7 +257,7 @@ ul li {
     position: relative;
     max-width: 1219px;
     width: 100%;
-    max-height: 414px;
+    height: 414px;
     margin: 0 auto;
 }
 
